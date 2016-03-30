@@ -1,2 +1,2 @@
 # auth-serv
-Serviço de autenticação.
+Serviço de autenticação
