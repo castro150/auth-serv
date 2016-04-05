@@ -5,7 +5,7 @@ public class AuthorizationServerConstants {
 	public static final String PERMIT_ALL_ACCESS = "permitAll()";
 	public static final String IS_AUTHENTICATED_ACCESS = "isAuthenticated()";
 
-	public static final String PASSWORD_GRUT_TYPE = "password";
+	public static final String PASSWORD_GRUNT_TYPE = "password";
 	public static final String REFRESH_TOKEN_GRUNT_TYPE = "refresh_token";
 	
 	public static final String READ_SCOPE = "read";
